@@ -2,7 +2,7 @@
 
 🎓 Estudante de Informática (técnico)  
 💻 Futuro Desenvolvedor de Software  
-📍 Rio de Janeiro - RJ  
+📍 Rio de Janeiro - RJ
 
 ## 🚀 Sobre mim
 - Estou me formando em Técnico em Informática pelo IFRJ
@@ -12,7 +12,7 @@
 ## 🛠️ Tecnologias
 - JavaScript
 - HTML | CSS
-- S
+- SQL
 - Git | GitHub
 - Node.js (em aprendizado)
 
