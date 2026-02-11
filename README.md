@@ -1,15 +1,15 @@
-# 👋 Oi, eu sou o Gustavo
+# Oi, eu sou o Gustavo
 
 🎓 Estudante de Informática (técnico)  
 💻 Futuro Desenvolvedor de Software  
 📍 Rio de Janeiro - RJ
 
-## 🚀 Sobre mim
+## Sobre mim
 - Estou me formando em Técnico em Informática pelo IFRJ
 - Busco minha primeira oportunidade como **Dev Júnior**
 - Focado em aprender bem os fundamentos e boas práticas
 
-## 🛠️ Tecnologias
+## Tecnologias
 - JavaScript
 - HTML | CSS
 - SQL
